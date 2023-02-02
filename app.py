@@ -16,7 +16,7 @@ def prediction(age, sex, bmi, children, smoker):
     return prediction
 
 def main():
-    st.title("Aplikasi Prediksi Besar Numerik Asuransi dengan Algoritma Regresi Linier")
+    st.title("Aplikasi Asuransi Regresi William Djuanda")
     st.markdown('William Djuanda_2019230032')
     st.write('\n')
     st.markdown('Lengkapi data berikut:')
